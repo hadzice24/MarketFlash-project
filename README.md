@@ -66,7 +66,7 @@ Key features:
 ### 🔗 [View Tableau Dashboard on Tableau Public]([https://public.tableau.com/views/MarketFlash_17425862409130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
 
 ### 📸 Dashboard Preview
-![KPI Dashboard](tableau/screenshots/Dashboard.png)
+![KPI Dashboard](tableau/Dashboard.png)
 
 ---
 
