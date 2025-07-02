@@ -64,7 +64,7 @@ Key features:
 - Filters by channel, executive, audience, and location
 - Visual breakdown of cost and performance by campaign and platform
 
-### 🔗 [View Tableau Dashboard on Tableau Public]([https://public.tableau.com/app/profile/your_dashboard_link](https://public.tableau.com/views/MarketFlash_17425862409130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+### 🔗 [View Tableau Dashboard on Tableau Public]([https://public.tableau.com/app/profile/your_dashboard_link](https://public.tableau.com/views/MarketFlash_17425862409130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 📸 Dashboard Preview
 ![KPI Dashboard](dashboard/tableau_screenshots/kpi_dashboard.png)
