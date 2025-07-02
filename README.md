@@ -41,18 +41,18 @@ The database is structured with the following entities:
 
 ### 📂 Table Creation
 Full SQL scripts to create tables and enforce data integrity:
-- [Create Tables](sql/create_tables.sql)
+- [Create Tables](https://www.notion.so/Table-Creation-SQL-Queries-22452541c16580eabc16e139a995c74a?source=copy_link)
 
 ### 📂 Sample Data Inserts
 Includes 5+ entries per table:
-- [Insert Data](sql/insert_data.sql)
+- [Insert Data](https://www.notion.so/Sample-Data-Entry-22452541c16580d48fedc9cbb0fc95d2?source=copy_link)
 
 ### 📂 Example Queries
 Business insights from SQL queries:
 - Average cost per click (CPC)
 - Average cost per conversion
 - Audience segment performance
-- [Example Queries](sql/example_queries.sql)
+- [Example Queries](https://www.notion.so/Sample-Queries-22452541c16580229c4bc8d7fadd57a9?source=copy_link)
 
 ---
 
@@ -64,7 +64,7 @@ Key features:
 - Filters by channel, executive, audience, and location
 - Visual breakdown of cost and performance by campaign and platform
 
-### 🔗 [View Tableau Dashboard on Tableau Public]([https://public.tableau.com/app/profile/your_dashboard_link](https://public.tableau.com/views/MarketFlash_17425862409130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### 🔗 [View Tableau Dashboard on Tableau Public]([https://public.tableau.com/views/MarketFlash_17425862409130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
 
 ### 📸 Dashboard Preview
 ![KPI Dashboard](dashboard/tableau_screenshots/kpi_dashboard.png)
@@ -73,8 +73,6 @@ Key features:
 ---
 
 ## 📋 Project Presentation
-
-(Optional, if you have a deck or recording.)
 
 - Summary presentation given to the client (Markus)
 - Includes ERD, SQL structure, example queries, and dashboard insights
