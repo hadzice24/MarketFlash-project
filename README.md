@@ -33,7 +33,7 @@ The database is structured with the following entities:
 - **Metrics**
 - **Advertisements**
 
-![ERD](erd/marketflash_erd.png)
+![ERD](erd/erd.diagram)
 
 ---
 
@@ -45,13 +45,12 @@ Full SQL scripts to create tables and enforce data integrity:
 
 ### 📂 Sample Data Inserts
 Includes 5+ entries per table:
-- [Insert Data](https://www.notion.so/Sample-Data-Entry-22452541c16580d48fedc9cbb0fc95d2?source=copy_link)
+- [Data](https://www.notion.so/Sample-Data-Entry-22452541c16580d48fedc9cbb0fc95d2?source=copy_link)
 
 ### 📂 Example Queries
 Business insights from SQL queries:
 - Average cost per click (CPC)
 - Average cost per conversion
-- Audience segment performance
 - [Example Queries](https://www.notion.so/Sample-Queries-22452541c16580229c4bc8d7fadd57a9?source=copy_link)
 
 ---
