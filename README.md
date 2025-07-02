@@ -33,7 +33,7 @@ The database is structured with the following entities:
 - **Metrics**
 - **Advertisements**
 
-![ERD](erd/erd.diagram)
+![ERD](erd/marketflash-edr.png)
 
 ---
 
@@ -66,8 +66,7 @@ Key features:
 ### 🔗 [View Tableau Dashboard on Tableau Public]([https://public.tableau.com/views/MarketFlash_17425862409130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
 
 ### 📸 Dashboard Preview
-![KPI Dashboard](dashboard/tableau_screenshots/kpi_dashboard.png)
-![Cost Structure](dashboard/tableau_screenshots/cost_structure.png)
+![KPI Dashboard](tableau/screenshots/Dashboard.png)
 
 ---
 
@@ -76,7 +75,7 @@ Key features:
 - Summary presentation given to the client (Markus)
 - Includes ERD, SQL structure, example queries, and dashboard insights
 
-📄 [Download Slides](presentation/marketflash_presentation.pdf)
+📄 [Download Slides](presentation/MarketFlash.pdf)
 
 ---
 
