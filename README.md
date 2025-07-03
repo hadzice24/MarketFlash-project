@@ -5,6 +5,16 @@
 
 ---
 
+## 📚 Table of Contents
+- [Summary](#project-summary)
+- [ERD](#entity-relationship-diagram-erd)
+- [SQL Setup](#sql-database)
+- [Dashboard](#tableau-dashboard)
+- [Presentation](#project-presentation)
+- [Key Takeaways](#key-takeaways)
+
+---
+
 ## 🧠 Project Summary
 
 In this project, I worked as a data analyst for **MarketFlash**, a growing marketing agency. I was tasked with building a scalable database and an interactive Tableau dashboard to replace their outdated spreadsheet system. This project demonstrates my ability to design a relational database from scratch, work with stakeholder requirements, and turn raw marketing data into actionable business insights.
@@ -41,7 +51,7 @@ The database is structured with the following entities:
 
 ### 📂 Table Creation
 Full SQL scripts to create tables and enforce data integrity:
-- [Create Tables](https://www.notion.so/Table-Creation-SQL-Queries-22452541c16580eabc16e139a995c74a?source=copy_link)
+- [Create Tables Script](https://www.notion.so/Table-Creation-SQL-Queries-22452541c16580eabc16e139a995c74a?source=copy_link)
 
 ### 📂 Sample Data Inserts
 Includes 5+ entries per table:
@@ -63,10 +73,10 @@ Key features:
 - Filters by parameters(conversions, expenses, clicks, likes, views), channel, month, age group
 - Visual breakdown of cost and performance by campaign and platform
 
-### 🔗 ![View Tableau Dashboard on Tableau Public](https://public.tableau.com/views/MarketFlash_17425862409130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ### 📸 Dashboard Preview
 ![Dashboard](tableau/Dashboard.png)
+
+### 🔗 ![View the Interactive Dashboard](https://public.tableau.com/views/MarketFlash_17425862409130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -75,7 +85,7 @@ Key features:
 - Summary presentation given to the client (Markus)
 - Includes ERD, SQL structure, example queries, and dashboard insights
 
-📄 [Download Slides](presentation/MarketFlash.pdf)
+📄 [Download Presentation](presentation/MarketFlash.pdf)
 
 ---
 
@@ -85,12 +95,4 @@ Key features:
 - Created stakeholder-specific Tableau dashboards for real-time insights
 - Applied real-world business logic to transform marketing operations
 
----
-
-## 📁 Folder Structure
-marketflash-project/
-├── README.md
-├── erd/
-├── tableau/
-├── presentation/
 ---
