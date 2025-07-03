@@ -88,3 +88,9 @@ Key features:
 ---
 
 ## 📁 Folder Structure
+marketflash-project/
+├── README.md
+├── erd/
+├── dashboard/
+├── presentation/
+---
