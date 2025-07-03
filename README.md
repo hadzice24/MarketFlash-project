@@ -5,16 +5,6 @@
 
 ---
 
-## 📚 Table of Contents
-- [Summary](#project-summary)
-- [ERD](#entity-relationship-diagram-erd)
-- [SQL Setup](#sql-database)
-- [Dashboard](#tableau-dashboard)
-- [Presentation](#project-presentation)
-- [Key Takeaways](#key-takeaways)
-
----
-
 ## 🧠 Project Summary
 
 In this project, I worked as a data analyst for **MarketFlash**, a growing marketing agency. I was tasked with building a scalable database and an interactive Tableau dashboard to replace their outdated spreadsheet system. This project demonstrates my ability to design a relational database from scratch, work with stakeholder requirements, and turn raw marketing data into actionable business insights.
