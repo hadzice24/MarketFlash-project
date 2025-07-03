@@ -59,14 +59,14 @@ Business insights from SQL queries:
 
 A fully interactive Tableau dashboard was created for campaign tracking and decision-making.  
 Key features:
-- KPIs: Clicks, Conversions, Expenses, Cost per Click
-- Filters by channel, executive, audience, and location
+- KPIs: Campaigns, Expenses, Conversions, Conversion Rate, Cost per Conversion
+- Filters by parameters(conversions, expenses, clicks, likes, views), channel, month, age group
 - Visual breakdown of cost and performance by campaign and platform
 
-### 🔗 [View Tableau Dashboard on Tableau Public]([https://public.tableau.com/views/MarketFlash_17425862409130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
+### 🔗 ![View Tableau Dashboard on Tableau Public](https://public.tableau.com/views/MarketFlash_17425862409130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 📸 Dashboard Preview
-![KPI Dashboard](tableau/Dashboard.png)
+![Dashboard](tableau/Dashboard.png)
 
 ---
 
