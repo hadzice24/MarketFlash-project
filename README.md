@@ -91,6 +91,6 @@ Key features:
 marketflash-project/
 ├── README.md
 ├── erd/
-├── dashboard/
+├── tableau/
 ├── presentation/
 ---
