@@ -33,7 +33,7 @@ The database is structured with the following entities:
 - **Metrics**
 - **Advertisements**
 
-![ERD](erd/marketflash-edr.png)
+![ERD](erd/marketflash_edr.png)
 
 ---
 
@@ -45,7 +45,7 @@ Full SQL scripts to create tables and enforce data integrity:
 
 ### 📂 Sample Data Inserts
 Includes 5+ entries per table:
-- [Data](https://www.notion.so/Sample-Data-Entry-22452541c16580d48fedc9cbb0fc95d2?source=copy_link)
+- [Data Entry](https://www.notion.so/Sample-Data-Entry-22452541c16580d48fedc9cbb0fc95d2?source=copy_link)
 
 ### 📂 Example Queries
 Business insights from SQL queries:
