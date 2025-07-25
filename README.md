@@ -75,8 +75,8 @@ Key features:
 - Summary presentation given to the client (Markus)
 - Includes ERD, SQL structure, example queries, and dashboard insights
 
-📄 [Download Presentation](presentation/MarketFlash.pdf)
-
+📄 [View Presentation](presentation/MarketFlash.pdf)
+🎥 [View Video Presentation](https://www.loom.com/share/8e9f91b3b933452ab155471f6ac9e334?sid=bd0f0c1b-19ff-4117-8e85-41dc3ab1ca9b)
 ---
 
 ## ✅ Key Takeaways
